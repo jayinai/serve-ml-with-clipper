@@ -1,8 +1,6 @@
-# serve-ml-with-clipper
+The notebook works with Clipper release 0.2
 
-The notebook works with Clipper relase 0.2
-
-## Dependencies
+### Dependencies
 
 * Install [Docker](https://docs.docker.com/engine/installation/)
 * Install Python: currently Clipper supports Python 2 only
